@@ -12,7 +12,6 @@ while True:
     except ValueError:
         print("Please enter a Valid integer!")
 
-
 # Initialize sequence with first two Fibonacci numbers
 fib_list = [1, 1]
 
